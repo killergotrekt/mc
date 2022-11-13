@@ -4,7 +4,7 @@
 Click on the `main.zip` file to download the contents.
 
 ### To setup (Without Custom Components)
-1. Download the `zip` above and extract it
+1. Download the [zip](https://drive.google.com/file/d/10cj5hWB4anow-NiC8irQvWt-q3GGcZDv/view) and extract it
 2. Navigate to `%appdata%\.minecraft\saves`
 3. Copy `world`, `world_nether`, `world_the_end` to the folder opened above
 4. Run Minecraft with version **1.19.2 or newer**
